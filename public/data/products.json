@@ -1,0 +1,280 @@
+[
+  {
+    "id": 1,
+    "title": "Realme 12",
+    "image": "/data/realme12.png",
+    "category": "Mobile",
+    "price": 299,
+    "description": "Realme 12 smartphone with advanced features and sleek design.",
+    "Specification": [
+      "6.5-inch FHD+ display",
+      "5000mAh battery",
+      "64MP main camera",
+      "4GB RAM"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "title": "Realme Note 60",
+    "image": "/data/realmenote60.png",
+    "category": "Mobile",
+    "price": 139,
+    "description": "Realme Note 60 with large display and powerful processor.",
+    "Specification": [
+      "6.8-inch FHD+ display",
+      "6000mAh battery",
+      "108MP main camera",
+      "6GB RAM"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "id": 3,
+    "title": "Realme C61",
+    "image": "/data/realmec61.png",
+    "category": "Mobile",
+    "price": 149,
+    "description": "Realme C61 budget-friendly smartphone with reliable performance.",
+    "Specification": [
+      "6.4-inch display",
+      "4000mAh battery",
+      "48MP main camera",
+      "3GB RAM"
+    ],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "id": 4,
+    "title": "Realme C63",
+    "image": "/data/realmec63.png",
+    "category": "Mobile",
+    "price": 179,
+    "description": "Realme C63 with fast charging and smooth performance.",
+    "Specification": [
+      "6.5-inch HD+ display",
+      "4500mAh battery",
+      "50MP main camera",
+      "4GB RAM"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "id": 5,
+    "title": "Realme C65",
+    "image": "/data/realmec65.png",
+    "category": "Mobile",
+    "price": 199,
+    "description": "Realme C65 with large display and high-capacity battery.",
+    "Specification": [
+      "6.7-inch HD+ display",
+      "5000mAh battery",
+      "64MP main camera",
+      "6GB RAM"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "id": 6,
+    "title": "Realme Note 50",
+    "image": "/data/realmenote50.png",
+    "category": "Mobile",
+    "price": 124,
+    "description": "Realme Note 50 with powerful camera and long-lasting battery.",
+    "Specification": [
+      "6.6-inch FHD+ display",
+      "5000mAh battery",
+      "48MP main camera",
+      "4GB RAM"
+    ],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "id": 7,
+    "title": "Realme C67",
+    "image": "/data/realmec67.png",
+    "category": "Mobile",
+    "price": 229,
+    "description": "Realme C67 offering excellent display quality and battery life.",
+    "Specification": [
+      "6.7-inch HD+ display",
+      "5000mAh battery",
+      "48MP dual camera",
+      "6GB RAM"
+    ],
+    "availability": false,
+    "rating": 4.3
+  },
+  {
+    "id": 8,
+    "title": "Realme C51",
+    "image": "/data/realmec51.png",
+    "category": "Mobile",
+    "price": 129,
+    "description": "Realme C51, a budget smartphone with impressive features.",
+    "Specification": [
+      "6.5-inch display",
+      "4000mAh battery",
+      "13MP main camera",
+      "3GB RAM"
+    ],
+    "availability": true,
+    "rating": 3.9
+  },
+  {
+    "id": 9,
+    "title": "Realme Pad",
+    "image": "/data/realmepad.png",
+    "category": "Tablet",
+    "price": 219,
+    "description": "Realme Pad with immersive display and powerful audio.",
+    "Specification": [
+      "10.4-inch display",
+      "7100mAh battery",
+      "Dolby Atmos sound"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "id": 10,
+    "title": "Realme Pad Mini",
+    "image": "/data/realmepadmini.png",
+    "category": "Tablet",
+    "price": 213,
+    "description": "Realme Pad Mini with compact size and powerful performance.",
+    "Specification": ["8.7-inch display", "6400mAh battery", "Stereo speakers"],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "id": 11,
+    "title": "Realme Book",
+    "image": "/data/realmebook.png",
+    "category": "Laptop",
+    "price": 599,
+    "description": "Realme Book laptop with slim design and high performance.",
+    "Specification": [
+      "14-inch display",
+      "Intel i5 processor",
+      "8GB RAM",
+      "512GB SSD"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": 12,
+    "title": "Realme Book Prime",
+    "image": "/data/realmebookprime.png",
+    "category": "Laptop",
+    "price": 739,
+    "description": "Realme Book Prime with enhanced processing and memory.",
+    "Specification": [
+      "14-inch display",
+      "Intel i7 processor",
+      "16GB RAM",
+      "512GB SSD"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": 13,
+    "title": "Realme Watch 2",
+    "image": "/data/realmewatch2.png",
+    "category": "Smart Watch",
+    "price": 76,
+    "description": "Realme Watch 2 with health tracking features and long battery life.",
+    "Specification": [
+      "1.4-inch display",
+      "Heart rate monitor",
+      "SpO2 monitor",
+      "Battery life up to 12 days"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "id": 14,
+    "title": "Realme Watch 2 Pro",
+    "image": "/data/realmewatch2pro.png",
+    "category": "Smart Watch",
+    "price": 85,
+    "description": "Realme Watch 2 Pro with GPS tracking and enhanced features.",
+    "Specification": [
+      "1.75-inch display",
+      "GPS tracking",
+      "Heart rate monitor",
+      "SpO2 monitor"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "id": 15,
+    "title": "Realme Band 2",
+    "image": "/data/realmeband2.png",
+    "category": "Smart Watch",
+    "price": 68,
+    "description": "Realme Band 2 with fitness tracking and multiple sports modes.",
+    "Specification": [
+      "1.4-inch display",
+      "Heart rate monitor",
+      "Up to 90 workout modes"
+    ],
+    "availability": true,
+    "rating": 4.1
+  },
+  {
+    "id": 16,
+    "title": "Realme Buds Q2",
+    "image": "/data/realmebudsq2.png",
+    "category": "TWS",
+    "price": 61,
+    "description": "Realme Buds Q2 with active noise cancellation and bass boost driver.",
+    "Specification": [
+      "Active Noise Cancellation",
+      "20 hours playback",
+      "10mm bass boost driver"
+    ],
+    "availability": true,
+    "rating": 3.5
+  },
+  {
+    "id": 17,
+    "title": "Realme Buds Air 2",
+    "image": "/data/realmebudsair2.png",
+    "category": "TWS",
+    "price": 63,
+    "description": "Realme Buds Air 2 with active noise cancellation and clear sound quality.",
+    "Specification": [
+      "Active Noise Cancellation",
+      "25 hours playback",
+      "Bluetooth 5.2"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "id": 18,
+    "title": "Realme Buds Air 2 Neo",
+    "image": "/data/realmebudsair2neo.png",
+    "category": "TWS",
+    "price": 69,
+    "description": "Realme Buds Air 2 Neo with ANC and quick charging.",
+    "Specification": [
+      "Active Noise Cancellation",
+      "28 hours playback",
+      "IPX5 water resistance"
+    ],
+    "availability": true,
+    "rating": 4.3
+  }
+]
